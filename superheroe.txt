@@ -5,3 +5,5 @@ Flash
 Batman
 Linterna verde
 Pantera negra
+atom
+ant man
